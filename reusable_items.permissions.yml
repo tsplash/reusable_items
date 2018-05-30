@@ -1,0 +1,30 @@
+add reusable item entities:
+  title: 'Create new Reusable item entities'
+
+administer reusable item entities:
+  title: 'Administer Reusable item entities'
+  description: 'Allow to access the administration form to configure Reusable item entities.'
+  restrict access: true
+
+delete reusable item entities:
+  title: 'Delete Reusable item entities'
+
+edit reusable item entities:
+  title: 'Edit Reusable item entities'
+
+view published reusable item entities:
+  title: 'View published Reusable item entities'
+
+view unpublished reusable item entities:
+  title: 'View unpublished Reusable item entities'
+
+view all reusable item revisions:
+  title: 'View all Reusable item revisions'
+
+revert all reusable item revisions:
+  title: 'Revert all Reusable item revisions'
+  description: 'Role requires permission <em>view Reusable item revisions</em> and <em>edit rights</em> for reusable item entities in question or <em>administer reusable item entities</em>.'
+
+delete all reusable item revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view Reusable item revisions</em> and <em>delete rights</em> for reusable item entities in question or <em>administer reusable item entities</em>.'

@@ -1,0 +1,5 @@
+name: 'Reusable items'
+type: module
+description: 'Provides the reusable item entity type'
+core: 8.x
+package: 'Custom'

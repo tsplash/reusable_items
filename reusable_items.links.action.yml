@@ -1,0 +1,11 @@
+entity.reusable_item.add_form:
+  route_name: entity.reusable_item.add_page
+  title: 'Add Reusable item'
+  appears_on:
+    - entity.reusable_item.collection
+entity.reusable_item_type.add_form:
+  route_name: entity.reusable_item_type.add_form
+  title: 'Add Reusable item type'
+  appears_on:
+    - entity.reusable_item_type.collection
+

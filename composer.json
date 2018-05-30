@@ -1,0 +1,14 @@
+{
+  "name": "drupal/reusable_items",
+  "type": "drupal-module",
+  "description": "Provides the reusable entity type",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/reusable_items",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/reusable_items",
+    "source": "http://cgit.drupalcode.org/reusable_items"
+  },
+  "require": { }
+}

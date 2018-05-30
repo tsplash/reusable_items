@@ -1,0 +1,18 @@
+
+# Reusable item menu items definition
+entity.reusable_item.collection:
+  title: 'Reusable item list'
+  route_name: entity.reusable_item.collection
+  description: 'List Reusable item entities'
+  parent: system.admin_structure
+  weight: 0
+
+
+# Reusable item type menu items definition
+entity.reusable_item_type.collection:
+  title: 'Reusable item types'
+  route_name: entity.reusable_item_type.collection
+  description: 'Create and manage fields, forms, and display settings for your reusable item bundles.'
+  parent: system.admin_structure
+  weight: 0
+

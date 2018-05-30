@@ -1,0 +1,23 @@
+# Reusable item routing definition
+
+entity.reusable_item.canonical:
+  route_name: entity.reusable_item.canonical
+  base_route: entity.reusable_item.canonical
+  title: 'View'
+
+entity.reusable_item.edit_form:
+  route_name: entity.reusable_item.edit_form
+  base_route: entity.reusable_item.canonical
+  title: 'Edit'
+
+entity.reusable_item.version_history:
+  route_name: entity.reusable_item.version_history
+  base_route: entity.reusable_item.canonical
+  title: 'Revisions'
+
+entity.reusable_item.delete_form:
+  route_name:  entity.reusable_item.delete_form
+  base_route:  entity.reusable_item.canonical
+  title: Delete
+  weight: 10
+
